@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKBFeGujF5I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\KPL\\TP_MODUL10_103022400097\\TP_MODUL10_103022400097\\TP_MODUL10_103022400097.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
